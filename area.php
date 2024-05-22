@@ -190,7 +190,7 @@ include $inc_path .'/inc/head.php';
             <p><span class="month">5/</span>6<br>
           	(月)</p>
           </button>
-        	</div>
+          </div>
 
 
         <div class="Edit__commonPanelRow">
